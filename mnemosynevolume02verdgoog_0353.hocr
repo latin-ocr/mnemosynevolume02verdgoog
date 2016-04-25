@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mnemosynevolume02verdgoog_0353.png"; bbox 0 0 3414 5158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 417 2150 2803 2499">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 417 2150 2803 2499">
+     <span class='ocr_line' id='line_1_1' title="bbox 497 2150 2803 2231; baseline 0.002 -22"><span class='ocrx_word' id='word_1_1' title='bbox 497 2150 896 2211; x_wconf 69' lang='lat' dir='ltr'>Bmuomch</span> <span class='ocrx_word' id='word_1_2' title='bbox 955 2151 1359 2213; x_wconf 69' lang='lat' dir='ltr'>PmLonoch</span> <span class='ocrx_word' id='word_1_3' title='bbox 1405 2152 1646 2213; x_wconf 69' lang='lat' dir='ltr'>BATAvA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1691 2156 1902 2231; x_wconf 76' lang='lat' dir='ltr'><strong>quater</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1942 2153 2006 2213; x_wconf 84' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2046 2172 2201 2212; x_wconf 82' lang='lat' dir='ltr'>anno</span> <span class='ocrx_word' id='word_1_7' title='bbox 2243 2152 2501 2230; x_wconf 81' lang='lat' dir='ltr'><strong>prodibit</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2538 2151 2803 2213; x_wconf 77' lang='lat' dir='ltr'>Calendis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 417 2250 1765 2369; baseline 0.003 -18"><span class='ocrx_word' id='word_1_9' title='bbox 417 2290 743 2366; x_wconf 78' lang='lat' dir='ltr'>Ianuariis,</span> <span class='ocrx_word' id='word_1_10' title='bbox 785 2250 1116 2369; x_wconf 56' lang='lat' dir='ltr'><strong>A&#39;prnibus,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1159 2292 1358 2369; x_wconf 81' lang='lat' dir='ltr'><strong>Iuliis,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1401 2294 1765 2356; x_wconf 73' lang='lat' dir='ltr'>Octobribus.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 497 2432 1668 2499; baseline 0.005 -8"><span class='ocrx_word' id='word_1_13' title='bbox 497 2432 765 2493; x_wconf 75' lang='lat' dir='ltr'><strong>Pretium</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 809 2452 1075 2493; x_wconf 78' lang='lat' dir='ltr'><strong>annuum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1117 2434 1229 2493; x_wconf 81' lang='lat' dir='ltr'><strong>erit</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1267 2434 1470 2499; x_wconf 80' lang='lat' dir='ltr'><strong>floren.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1509 2435 1668 2497; x_wconf 67' lang='lat'><strong>525.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 505 2570 1897 2650">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 505 2570 1897 2650">
+     <span class='ocr_line' id='line_1_4' title="bbox 505 2570 1897 2650; baseline 0.006 -20"><span class='ocrx_word' id='word_1_18' title='bbox 505 2570 733 2650; x_wconf 81' lang='lat' dir='ltr'>Singuli</span> <span class='ocrx_word' id='word_1_19' title='bbox 774 2571 1033 2634; x_wconf 75' lang='lat' dir='ltr'><strong>fasciculi</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1077 2574 1386 2650; x_wconf 76' lang='lat' dir='ltr'><strong>separat-im</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1430 2595 1549 2636; x_wconf 87' lang='lat' dir='ltr'><strong>non</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1589 2576 1897 2638; x_wconf 79' lang='lat' dir='ltr'><strong>venibunt.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
